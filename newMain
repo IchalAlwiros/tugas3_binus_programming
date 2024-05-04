@@ -273,7 +273,7 @@ class AreaParkirB extends Parking {
 
 
 
-public class Main {
+public class newMain {
     public static void main(String[] args) {
 
 
